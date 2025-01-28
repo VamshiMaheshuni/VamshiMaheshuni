@@ -1,6 +1,6 @@
 <h1 align="center">Hi there <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="35px"> I'm Vamshi Maheshuni</h1>
 
-<img align="right" src="https://github.com/user-attachments/assets/c89df177-f635-41d3-9de1-63aa7d52478c.gif" alt="coding" width="400">
+<img align="right" src="https://camo.githubusercontent.com/130ffc354b6ee3c8c9e506276e598bf4e19ea7950df203dacf6aeee4fc543a50/68747470733a2f2f616e616c7974696373696e6469616d61672e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031382f31322f646576656c6f7065722d6472696262626c652e676966" alt="coding" width="400">
 
 
 
