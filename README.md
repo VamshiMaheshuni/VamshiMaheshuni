@@ -8,7 +8,7 @@
 
 ---
 
-## <img src="![Uploading image.png…]()
+## <img src=""
 " width="25"><b> Skills</b>
 
 ### **Languages & Tools**
