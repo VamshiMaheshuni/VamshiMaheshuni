@@ -1,6 +1,6 @@
 <h1 align="center">Hi there <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="35px"> I'm Vamshi Maheshuni</h1>
 
-<img align="right" alt="coding" width="400" src="https://github.com/user-attachments/assets/59b94f9f-af36-4e3f-9707-e1285298b7e2">
+<img align="right" alt="coding" width="400" src="https://github.com/user-attachments/assets/59b94f9f-af36-4e3f-9707-e1285298b7e2.gif">
 
 
 ## 🌟 Connect with me
